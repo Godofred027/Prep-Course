@@ -1,0 +1,17 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+ Variables: Son identificadores simbolicos donde podras almacenar algun tipo de valor.
+
+ Strings: Son cadenas de texto, conjunto de simbolos que forman palabras o un texto sin mas, ordenadas en un arreglo.
+
+ Funciones: Son operaciones que puedes llamar en cualquier momento para solucionar una operacion.
+
+ Declaraciones If: Son para crear una condicional que podras usar para saber si algo se esta cumpliendo.
+
+ Valores booleanos: Son identificadores para saber si algo es verdadero o falso, se usan para saber si se completo una accion o para corroborar algo.
